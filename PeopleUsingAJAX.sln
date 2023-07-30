@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleUsing_AJAX.web", "PeopleUsing_AJAX.web\PeopleUsing_AJAX.web.csproj", "{87AFA737-8B92-46E6-9940-8F770918B610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleUsing_AJAX.data", "PeopleUsing_AJAX.data\PeopleUsing_AJAX.data.csproj", "{E9D90B70-431D-4851-9CA8-1AB32111A0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AFA737-8B92-46E6-9940-8F770918B610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AFA737-8B92-46E6-9940-8F770918B610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AFA737-8B92-46E6-9940-8F770918B610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AFA737-8B92-46E6-9940-8F770918B610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D90B70-431D-4851-9CA8-1AB32111A0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D90B70-431D-4851-9CA8-1AB32111A0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D90B70-431D-4851-9CA8-1AB32111A0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D90B70-431D-4851-9CA8-1AB32111A0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C491C23-EA6E-4AAD-98D0-D3FE29D3956C}
+	EndGlobalSection
+EndGlobal
